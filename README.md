@@ -17,7 +17,7 @@ Elle permet de gérer des utilisateurs avec un CRUD complet :
 - `PUT /users/:id` : mettre à jour un utilisateur
 - `DELETE /users/:id` : supprimer un utilisateur
 
-Les données sont stockés dans une base *MongoDB* via *Mongoose*.
+Les données sont stockées dans une base *MongoDB* via *Mongoose*.
 
 
 # Structure du projet
